@@ -1,4 +1,4 @@
-# GoldenDoge node with block explorer
+#⛓️ GoldenDoge node with block explorer ⛓️
 ## About
 
 Welcome to the repository of GoldenDoge node with block explorer.
